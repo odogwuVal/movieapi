@@ -33,7 +33,7 @@ var SwaggerInfo = &swag.Spec{
 	BasePath:         "/",
 	Schemes:          []string{},
 	Title:            "MovieAPI",
-	Description:      "This is a sample server.",
+	Description:      "A MovieAPI sever to serve random movies.",
 	InfoInstanceName: "swagger",
 	SwaggerTemplate:  docTemplate,
 	LeftDelim:        "{{",
